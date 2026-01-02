@@ -233,3 +233,4 @@ class TestProductModel(unittest.TestCase):
         }
         with self.assertRaises(DataValidationError):
             Product().deserialize(data)
+
