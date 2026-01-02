@@ -132,3 +132,4 @@ Scenario: Search by name
     And I should see "Hat" in the "Name" field
     And I should see "A red fedora" in the "Description" field
 
+
